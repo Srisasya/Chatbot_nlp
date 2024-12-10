@@ -1,8 +1,4 @@
 # Chatbot_nlp
-Here's a basic README template for your chatbot project using NLP:
-
----
-
 # Chatbot Using Natural Language Processing (NLP)
 
 This is a simple chatbot application developed using Natural Language Processing (NLP). The chatbot is trained on predefined intents and tags, providing accurate, context-aware responses based on user input. It is designed to handle multi-turn conversations and is adaptable for various use cases, such as customer service or mental health support.
